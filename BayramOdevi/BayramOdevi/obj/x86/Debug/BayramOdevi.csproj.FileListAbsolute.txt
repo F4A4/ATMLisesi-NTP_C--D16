@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\BayramOdevi\BayramOdevi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\BayramOdevi\BayramOdevi\bin\Debug\BayramOdevi.exe
+C:\Users\lenovo\Desktop\BayramOdevi\BayramOdevi\bin\Debug\BayramOdevi.pdb
+C:\Users\lenovo\Desktop\BayramOdevi\BayramOdevi\obj\x86\Debug\BayramOdevi.exe
+C:\Users\lenovo\Desktop\BayramOdevi\BayramOdevi\obj\x86\Debug\BayramOdevi.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\16.GÜN\BayramOdevi\BayramOdevi\obj\x86\Debug\BayramOdevi.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\16.GÜN\BayramOdevi\BayramOdevi\obj\x86\Debug\BayramOdevi.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\16.GÜN\BayramOdevi\BayramOdevi\bin\Debug\BayramOdevi.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\16.GÜN\BayramOdevi\BayramOdevi\bin\Debug\BayramOdevi.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\16.GÜN\BayramOdevi\BayramOdevi\obj\x86\Debug\ResolveAssemblyReference.cache

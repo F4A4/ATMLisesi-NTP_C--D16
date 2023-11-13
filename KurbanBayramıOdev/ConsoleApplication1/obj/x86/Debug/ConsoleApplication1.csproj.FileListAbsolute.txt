@@ -1,0 +1,12 @@
+C:\Users\asus\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\asus\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\asus\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\asus\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\asus\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\MO-04\Desktop\pisagor üçgeni\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\MO-04\Desktop\pisagor üçgeni\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\MO-04\Desktop\pisagor üçgeni\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\MO-04\Desktop\pisagor üçgeni\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\MO-04\Desktop\pisagor üçgeni\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\16.GÜN\KurbanBayramıOdev\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\16.GÜN\KurbanBayramıOdev\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
